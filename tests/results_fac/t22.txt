@@ -1,0 +1,24 @@
+MM:  Read 32 bytes at 0x0000
+fac: Read from 0x0004 the value: 1037588349
+
+MM:  Read 32 bytes at 0x0060
+fac: Read from 0x0064 the value: -1126779786
+
+fac: Wrote to 0x0064: -4
+
+fac: Read from 0x0004 the value: 1037588349
+
+fac: Read from 0x0064 the value: -4
+
+
+
+*******************************************
+fac cache with 16 way(s)
+*******************************************
+Write Hit Rate:	    100.00% (1/1)
+Read Hit Rate:	    50.00% (2/4)
+Total Hit Rate:     60.00% (3/5)
+Writes to Main Memory:   0
+Reads from Main Memory:  2
+Avg. Memory Access Time: 5.00 cycles
+*******************************************

@@ -1,0 +1,19 @@
+MM:  Read 32 bytes at 0xee00
+dmc: Read from 0xee08 the value: 1457167006
+
+dmc: Wrote to 0xee08: 941858447
+
+dmc: Read from 0xee08 the value: 941858447
+
+
+
+*******************************************
+dmc cache with 16 set(s)
+*******************************************
+Write Hit Rate:	    100.00% (1/1)
+Read Hit Rate:	    50.00% (1/2)
+Total Hit Rate:     66.67% (2/3)
+Writes to Main Memory:   0
+Reads from Main Memory:  1
+Avg. Memory Access Time: 4.33 cycles
+*******************************************

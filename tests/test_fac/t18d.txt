@@ -1,0 +1,20 @@
+MM:  Read 32 bytes at 0xffe0
+fac: Wrote to 0xfffc: -634482856
+
+MM:  Read 32 bytes at 0x4be0
+fac: Wrote to 0x4bec: -87107909
+
+fac: Read from 0xfffc the value: -634482856
+
+
+
+*******************************************
+fac cache with 16 way(s)
+*******************************************
+Write Hit Rate:	    0.00% (0/2)
+Read Hit Rate:	    100.00% (1/1)
+Total Hit Rate:     33.33% (1/3)
+Writes to Main Memory:   0
+Reads from Main Memory:  2
+Avg. Memory Access Time: 7.67 cycles
+*******************************************

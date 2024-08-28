@@ -1,0 +1,73 @@
+MM:  Read 32 bytes at 0x5720
+simple: Read from 0x5720 the value: 1403361303
+
+MM:  Read 32 bytes at 0xbcc0
+MM:  Wrote 32 bytes at 0xbcc0
+simple: Wrote to 0xbcd8: 791059291
+
+MM:  Read 32 bytes at 0x4fa0
+simple: Read from 0x4fbc the value: 1389829614
+
+MM:  Read 32 bytes at 0x9480
+simple: Read from 0x948c the value: 2123243984
+
+MM:  Read 32 bytes at 0xdde0
+MM:  Wrote 32 bytes at 0xdde0
+simple: Wrote to 0xddf8: 967073606
+
+MM:  Read 32 bytes at 0x9980
+simple: Read from 0x9988 the value: -1823125913
+
+MM:  Read 32 bytes at 0x9d60
+simple: Read from 0x9d70 the value: 805472775
+
+MM:  Read 32 bytes at 0xe700
+simple: Read from 0xe700 the value: -1961853611
+
+MM:  Read 32 bytes at 0x9da0
+simple: Read from 0x9da8 the value: 286250088
+
+MM:  Read 32 bytes at 0x0740
+simple: Read from 0x0744 the value: 1040205310
+
+MM:  Read 32 bytes at 0x7840
+MM:  Wrote 32 bytes at 0x7840
+simple: Wrote to 0x784c: -1672057965
+
+MM:  Read 32 bytes at 0x2dc0
+simple: Read from 0x2ddc the value: 2046788308
+
+MM:  Read 32 bytes at 0x0160
+simple: Read from 0x0168 the value: -957248210
+
+MM:  Read 32 bytes at 0x0b20
+MM:  Wrote 32 bytes at 0x0b20
+simple: Wrote to 0x0b34: -2145441476
+
+MM:  Read 32 bytes at 0x7e80
+MM:  Wrote 32 bytes at 0x7e80
+simple: Wrote to 0x7e80: -1337841945
+
+MM:  Read 32 bytes at 0xb740
+simple: Read from 0xb740 the value: -663087046
+
+MM:  Read 32 bytes at 0x5720
+MM:  Wrote 32 bytes at 0x5720
+simple: Wrote to 0x573c: 2065336255
+
+MM:  Read 32 bytes at 0xe680
+MM:  Wrote 32 bytes at 0xe680
+simple: Wrote to 0xe684: -1263198323
+
+
+
+*******************************************
+simple cache
+*******************************************
+Write Hit Rate:	    0.00% (0/7)
+Read Hit Rate:	    0.00% (0/11)
+Total Hit Rate:     0.00% (0/18)
+Writes to Main Memory:   7
+Reads from Main Memory:  18
+Avg. Memory Access Time: 11.00 cycles
+*******************************************

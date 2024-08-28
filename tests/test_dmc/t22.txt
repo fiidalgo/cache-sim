@@ -1,0 +1,24 @@
+MM:  Read 32 bytes at 0x0000
+dmc: Read from 0x0004 the value: 1037588349
+
+MM:  Read 32 bytes at 0x0060
+dmc: Read from 0x0064 the value: -1126779786
+
+dmc: Wrote to 0x0064: -4
+
+dmc: Read from 0x0004 the value: 1037588349
+
+dmc: Read from 0x0064 the value: -4
+
+
+
+*******************************************
+dmc cache with 16 set(s)
+*******************************************
+Write Hit Rate:	    100.00% (1/1)
+Read Hit Rate:	    50.00% (2/4)
+Total Hit Rate:     60.00% (3/5)
+Writes to Main Memory:   0
+Reads from Main Memory:  2
+Avg. Memory Access Time: 5.00 cycles
+*******************************************

@@ -1,0 +1,196 @@
+MM:  Read 32 bytes at 0x0740
+dmc: Wrote to 0x0748: 787026986
+
+MM:  Read 32 bytes at 0x6b80
+dmc: Wrote to 0x6b90: 1948976060
+
+MM:  Read 32 bytes at 0x8080
+dmc: Wrote to 0x8088: -114192
+
+MM:  Read 32 bytes at 0xc2e0
+dmc: Read from 0xc2f0 the value: -557804370
+
+dmc: Read from 0xc2e0 the value: -1977557020
+
+MM:  Read 32 bytes at 0xe200
+dmc: Read from 0xe20c the value: -1475945881
+
+MM:  Read 32 bytes at 0xfa00
+dmc: Wrote to 0xfa14: -1832900964
+
+MM:  Read 32 bytes at 0xb8a0
+dmc: Read from 0xb8b8 the value: 2017154824
+
+dmc: Wrote to 0x0748: 437128759
+
+MM:  Read 32 bytes at 0x1dc0
+dmc: Read from 0x1dd4 the value: 1923332670
+
+dmc: Read from 0x1dc4 the value: 1532005712
+
+dmc: Wrote to 0x1dc4: -1451151934
+
+dmc: Read from 0xb8a0 the value: -1113586941
+
+MM:  Read 32 bytes at 0xa3a0
+dmc: Read from 0xa3ac the value: 358266294
+
+MM:  Read 32 bytes at 0xdc40
+dmc: Wrote to 0xdc48: 404555668
+
+MM:  Read 32 bytes at 0x1a20
+dmc: Wrote to 0x1a28: 858997354
+
+MM:  Read 32 bytes at 0x9360
+dmc: Read from 0x9368 the value: 1848119785
+
+MM:  Read 32 bytes at 0x38c0
+dmc: Wrote to 0x38dc: -1919103465
+
+dmc: Read from 0x075c the value: 1974645977
+
+MM:  Read 32 bytes at 0x5b60
+dmc: Wrote to 0x5b70: 839598856
+
+dmc: Read from 0xdc54 the value: 1810456101
+
+dmc: Read from 0x6b98 the value: -382817881
+
+dmc: Read from 0x38d0 the value: -1954104422
+
+MM:  Wrote 32 bytes at 0x1a20
+MM:  Read 32 bytes at 0xb420
+dmc: Read from 0xb43c the value: -1483165271
+
+dmc: Wrote to 0xc2e4: -1933138608
+
+dmc: Wrote to 0xdc58: -1852821079
+
+dmc: Wrote to 0xdc40: -1638637074
+
+dmc: Read from 0x808c the value: 15346817
+
+MM:  Wrote 32 bytes at 0x5b60
+MM:  Read 32 bytes at 0x9360
+dmc: Read from 0x936c the value: -93571991
+
+MM:  Wrote 32 bytes at 0xc2e0
+MM:  Read 32 bytes at 0x2ce0
+dmc: Wrote to 0x2cfc: 1532672389
+
+MM:  Read 32 bytes at 0xd260
+dmc: Wrote to 0xd268: -472790803
+
+MM:  Read 32 bytes at 0x03a0
+dmc: Wrote to 0x03bc: 2140546211
+
+MM:  Wrote 32 bytes at 0x6b80
+MM:  Read 32 bytes at 0x6f80
+dmc: Wrote to 0x6f94: -866118036
+
+MM:  Wrote 32 bytes at 0x8080
+MM:  Read 32 bytes at 0x7480
+dmc: Read from 0x748c the value: -232784887
+
+MM:  Wrote 32 bytes at 0x03a0
+MM:  Read 32 bytes at 0x07a0
+dmc: Wrote to 0x07ac: -1144849964
+
+MM:  Read 32 bytes at 0xee80
+dmc: Read from 0xee98 the value: 1561311679
+
+MM:  Read 32 bytes at 0xf760
+dmc: Read from 0xf77c the value: 384262642
+
+MM:  Wrote 32 bytes at 0x07a0
+MM:  Read 32 bytes at 0x69a0
+dmc: Read from 0x69a8 the value: 604856882
+
+MM:  Wrote 32 bytes at 0xd260
+MM:  Read 32 bytes at 0xa260
+dmc: Wrote to 0xa270: -429315488
+
+MM:  Wrote 32 bytes at 0x0740
+MM:  Read 32 bytes at 0x5740
+dmc: Wrote to 0x5744: -1124636810
+
+MM:  Wrote 32 bytes at 0xfa00
+MM:  Read 32 bytes at 0x4400
+dmc: Wrote to 0x4408: -1234556374
+
+MM:  Wrote 32 bytes at 0x5740
+MM:  Read 32 bytes at 0x4340
+dmc: Read from 0x4344 the value: -2011314035
+
+MM:  Wrote 32 bytes at 0x38c0
+MM:  Read 32 bytes at 0xc2c0
+dmc: Read from 0xc2d8 the value: 100730809
+
+MM:  Wrote 32 bytes at 0x4400
+MM:  Read 32 bytes at 0x5000
+dmc: Wrote to 0x5004: 1395655338
+
+MM:  Read 32 bytes at 0x48c0
+dmc: Wrote to 0x48d8: -728370871
+
+MM:  Wrote 32 bytes at 0x6f80
+MM:  Read 32 bytes at 0x8580
+dmc: Read from 0x8580 the value: -550896685
+
+MM:  Read 32 bytes at 0x9ca0
+dmc: Read from 0x9ca8 the value: -1470671787
+
+MM:  Wrote 32 bytes at 0x1dc0
+MM:  Read 32 bytes at 0x4fc0
+dmc: Read from 0x4fd8 the value: -537083468
+
+MM:  Wrote 32 bytes at 0xa260
+MM:  Read 32 bytes at 0xf060
+dmc: Read from 0xf074 the value: 518794888
+
+MM:  Read 32 bytes at 0xf120
+dmc: Read from 0xf120 the value: 398202974
+
+MM:  Read 32 bytes at 0x7560
+dmc: Read from 0x757c the value: -238249524
+
+MM:  Read 32 bytes at 0x8380
+dmc: Read from 0x838c the value: -785881981
+
+MM:  Wrote 32 bytes at 0x5000
+MM:  Read 32 bytes at 0x7200
+dmc: Read from 0x7214 the value: 2129890626
+
+MM:  Read 32 bytes at 0x1600
+dmc: Read from 0x1618 the value: -577324224
+
+MM:  Read 32 bytes at 0x0f40
+dmc: Read from 0x0f5c the value: 1740416893
+
+MM:  Read 32 bytes at 0xb340
+dmc: Read from 0xb354 the value: 831187835
+
+MM:  Read 32 bytes at 0x0c20
+dmc: Read from 0x0c38 the value: 635587651
+
+MM:  Read 32 bytes at 0x3b40
+dmc: Wrote to 0x3b5c: 1503539706
+
+MM:  Read 32 bytes at 0x2920
+dmc: Wrote to 0x2934: -1092188529
+
+MM:  Read 32 bytes at 0x2c20
+dmc: Wrote to 0x2c3c: -1398704877
+
+
+
+*******************************************
+dmc cache with 16 set(s)
+*******************************************
+Write Hit Rate:	    19.23% (5/26)
+Read Hit Rate:	    23.53% (8/34)
+Total Hit Rate:     21.67% (13/60)
+Writes to Main Memory:   17
+Reads from Main Memory:  47
+Avg. Memory Access Time: 8.83 cycles
+*******************************************

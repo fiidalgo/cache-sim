@@ -1,0 +1,194 @@
+MM:  Read 32 bytes at 0x71e0
+sac: Read from 0x71fc the value: -95897182
+
+MM:  Read 32 bytes at 0x2480
+sac: Read from 0x2490 the value: 787704826
+
+MM:  Read 32 bytes at 0xab20
+sac: Wrote to 0xab3c: -1010242200
+
+sac: Read from 0xab28 the value: 1646550361
+
+MM:  Read 32 bytes at 0xdf40
+sac: Wrote to 0xdf4c: -1602745009
+
+sac: Read from 0x249c the value: 310012477
+
+MM:  Read 32 bytes at 0x0360
+sac: Read from 0x0378 the value: 1231614007
+
+MM:  Read 32 bytes at 0x29a0
+sac: Wrote to 0x29b8: 1175090734
+
+sac: Wrote to 0xab20: -1115672571
+
+MM:  Read 32 bytes at 0x8c00
+sac: Read from 0x8c0c the value: -1050153222
+
+MM:  Read 32 bytes at 0x95c0
+sac: Read from 0x95d0 the value: 192701263
+
+sac: Read from 0xdf5c the value: 2020337040
+
+MM:  Read 32 bytes at 0x5180
+sac: Wrote to 0x518c: -1974475694
+
+MM:  Read 32 bytes at 0x1020
+sac: Wrote to 0x1034: 551259402
+
+sac: Read from 0x0360 the value: 693144151
+
+MM:  Read 32 bytes at 0xe6a0
+sac: Wrote to 0xe6b8: 829435114
+
+sac: Wrote to 0xdf50: -1455080596
+
+MM:  Read 32 bytes at 0x1300
+sac: Wrote to 0x131c: -1139119012
+
+sac: Wrote to 0xdf4c: 218519725
+
+MM:  Read 32 bytes at 0xeec0
+sac: Wrote to 0xeecc: 1853371230
+
+MM:  Read 32 bytes at 0xfee0
+sac: Wrote to 0xfee0: -59103177
+
+MM:  Read 32 bytes at 0xbe60
+sac: Wrote to 0xbe64: -1839904137
+
+sac: Wrote to 0xeed4: 245991886
+
+sac: Read from 0x0378 the value: 1231614007
+
+sac: Wrote to 0xeec8: -1972385301
+
+sac: Read from 0xab28 the value: 1646550361
+
+sac: Read from 0xbe74 the value: 1728721530
+
+MM:  Read 32 bytes at 0x2a40
+sac: Read from 0x2a54 the value: 96176762
+
+sac: Wrote to 0xab30: -1120466347
+
+sac: Read from 0x8c08 the value: -751157677
+
+MM:  Wrote 32 bytes at 0x1300
+MM:  Read 32 bytes at 0x9700
+sac: Wrote to 0x9708: -77062040
+
+MM:  Read 32 bytes at 0xd280
+sac: Wrote to 0xd284: -492018332
+
+MM:  Wrote 32 bytes at 0x29a0
+MM:  Read 32 bytes at 0x04a0
+sac: Read from 0x04a8 the value: -1155676736
+
+MM:  Read 32 bytes at 0x8600
+sac: Wrote to 0x8604: -950842219
+
+MM:  Read 32 bytes at 0xe6e0
+sac: Wrote to 0xe6e0: 571954537
+
+MM:  Wrote 32 bytes at 0x1020
+MM:  Read 32 bytes at 0x1520
+sac: Read from 0x152c the value: 586583563
+
+MM:  Wrote 32 bytes at 0xdf40
+MM:  Read 32 bytes at 0x5a40
+sac: Read from 0x5a40 the value: -617483676
+
+MM:  Read 32 bytes at 0xc540
+sac: Read from 0xc54c the value: -409193830
+
+MM:  Wrote 32 bytes at 0x9700
+MM:  Read 32 bytes at 0xac00
+sac: Read from 0xac14 the value: 1601829007
+
+MM:  Wrote 32 bytes at 0xfee0
+MM:  Read 32 bytes at 0x52e0
+sac: Wrote to 0x52fc: -2015002302
+
+MM:  Wrote 32 bytes at 0x5180
+MM:  Read 32 bytes at 0xff80
+sac: Read from 0xff84 the value: -943768507
+
+MM:  Wrote 32 bytes at 0xe6e0
+MM:  Read 32 bytes at 0x6ae0
+sac: Read from 0x6af4 the value: -1943476478
+
+MM:  Read 32 bytes at 0x5840
+sac: Read from 0x584c the value: 1193726607
+
+MM:  Wrote 32 bytes at 0xab20
+MM:  Read 32 bytes at 0xf820
+sac: Wrote to 0xf82c: 1369362590
+
+MM:  Wrote 32 bytes at 0x8600
+MM:  Read 32 bytes at 0xb800
+sac: Read from 0xb818 the value: 2090588806
+
+MM:  Wrote 32 bytes at 0x52e0
+MM:  Read 32 bytes at 0xe0e0
+sac: Read from 0xe0e8 the value: 1091119079
+
+MM:  Wrote 32 bytes at 0xe6a0
+MM:  Read 32 bytes at 0x52a0
+sac: Read from 0x52b8 the value: -860990467
+
+MM:  Read 32 bytes at 0x8e60
+sac: Wrote to 0x8e7c: -902692968
+
+MM:  Wrote 32 bytes at 0xbe60
+MM:  Read 32 bytes at 0x9f60
+sac: Read from 0x9f78 the value: -1500832076
+
+MM:  Read 32 bytes at 0x4a00
+sac: Wrote to 0x4a10: -1785656844
+
+MM:  Wrote 32 bytes at 0x8e60
+MM:  Read 32 bytes at 0x5760
+sac: Read from 0x5764 the value: -1661629971
+
+MM:  Read 32 bytes at 0x60e0
+sac: Read from 0x60e0 the value: 1983330001
+
+MM:  Read 32 bytes at 0xeac0
+sac: Wrote to 0xead0: 379664665
+
+MM:  Read 32 bytes at 0xde40
+sac: Read from 0xde4c the value: -1603845285
+
+MM:  Read 32 bytes at 0x9340
+sac: Wrote to 0x9340: 252149724
+
+MM:  Read 32 bytes at 0xd340
+sac: Wrote to 0xd34c: 415262605
+
+MM:  Wrote 32 bytes at 0x9340
+MM:  Read 32 bytes at 0x3d40
+sac: Read from 0x3d50 the value: -943672263
+
+MM:  Read 32 bytes at 0x7c00
+sac: Read from 0x7c00 the value: -1245295008
+
+MM:  Wrote 32 bytes at 0xd340
+MM:  Read 32 bytes at 0x9940
+sac: Read from 0x994c the value: 1038678826
+
+MM:  Read 32 bytes at 0x6f60
+sac: Wrote to 0x6f78: -1828124256
+
+
+
+*******************************************
+sac cache with 8 set(s) and 2 way(s)
+*******************************************
+Write Hit Rate:	    21.43% (6/28)
+Read Hit Rate:	    25.00% (8/32)
+Total Hit Rate:     23.33% (14/60)
+Writes to Main Memory:   16
+Reads from Main Memory:  46
+Avg. Memory Access Time: 8.67 cycles
+*******************************************

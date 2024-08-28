@@ -1,0 +1,560 @@
+MM:  Read 32 bytes at 0xed80
+dmc: Read from 0xed98 the value: 475235665
+
+dmc: Wrote to 0xed9c: -1195024245
+
+MM:  Read 32 bytes at 0xeda0
+dmc: Wrote to 0xeda0: -385424985
+
+dmc: Read from 0xeda4 the value: 954281702
+
+dmc: Read from 0xeda8 the value: 1925787846
+
+dmc: Read from 0xedac the value: 953724224
+
+dmc: Wrote to 0xedb0: -1508752469
+
+dmc: Read from 0xedb4 the value: 932131972
+
+dmc: Wrote to 0xedb8: 94975538
+
+dmc: Read from 0xedbc the value: -397705428
+
+MM:  Read 32 bytes at 0xedc0
+dmc: Read from 0xedc0 the value: -1240796816
+
+dmc: Read from 0xedc4 the value: 1549571101
+
+dmc: Read from 0xedc8 the value: 1935649014
+
+dmc: Read from 0xedcc the value: -747065101
+
+dmc: Read from 0xedd0 the value: 868049095
+
+dmc: Wrote to 0xedd4: -1997833139
+
+dmc: Read from 0xedd8 the value: 511434839
+
+dmc: Wrote to 0xeddc: -454703030
+
+MM:  Read 32 bytes at 0xede0
+dmc: Read from 0xede0 the value: 1648755322
+
+dmc: Read from 0xede4 the value: 1504338702
+
+dmc: Wrote to 0xede8: 1130857300
+
+dmc: Read from 0xedec the value: 466093282
+
+dmc: Read from 0xedf0 the value: 1990075866
+
+dmc: Read from 0xedf4 the value: 1334855240
+
+dmc: Wrote to 0xedf8: 138252352
+
+dmc: Wrote to 0xedfc: 1647004822
+
+MM:  Read 32 bytes at 0xee00
+dmc: Read from 0xee00 the value: -1119952667
+
+dmc: Wrote to 0xee04: 10069325
+
+dmc: Read from 0xee08 the value: 1457167006
+
+dmc: Wrote to 0xee0c: 337561372
+
+dmc: Read from 0xee10 the value: 179007629
+
+dmc: Read from 0xee14 the value: 857933564
+
+dmc: Wrote to 0xee18: 1264490922
+
+dmc: Read from 0xee1c the value: -544674886
+
+MM:  Read 32 bytes at 0xee20
+dmc: Read from 0xee20 the value: -332572808
+
+dmc: Wrote to 0xee24: 995290068
+
+dmc: Read from 0xee28 the value: -1591063807
+
+dmc: Wrote to 0xee2c: 1143980901
+
+dmc: Read from 0xee30 the value: 702132747
+
+dmc: Read from 0xee34 the value: -564885826
+
+dmc: Read from 0xee38 the value: 1555631631
+
+dmc: Read from 0xee3c the value: -1310457833
+
+MM:  Read 32 bytes at 0xee40
+dmc: Read from 0xee40 the value: 390944669
+
+dmc: Read from 0xee44 the value: -766144647
+
+dmc: Read from 0xee48 the value: -1605104225
+
+dmc: Read from 0xee4c the value: 2067263224
+
+dmc: Read from 0xee50 the value: 128162647
+
+dmc: Wrote to 0xee54: -1738033170
+
+dmc: Wrote to 0xee58: 1662058316
+
+dmc: Wrote to 0xee5c: -340450425
+
+MM:  Read 32 bytes at 0xee60
+dmc: Wrote to 0xee60: -396495218
+
+dmc: Wrote to 0xee64: -1297078309
+
+dmc: Wrote to 0xee68: -144884729
+
+dmc: Read from 0xee6c the value: -210424554
+
+dmc: Read from 0xee70 the value: -753923495
+
+dmc: Read from 0xee74 the value: 1642282270
+
+dmc: Read from 0xee78 the value: -155077143
+
+dmc: Read from 0xee7c the value: -335961384
+
+MM:  Read 32 bytes at 0xee80
+dmc: Wrote to 0xee80: 1429643244
+
+dmc: Read from 0xee84 the value: -1364105586
+
+dmc: Read from 0xee88 the value: 1416832414
+
+dmc: Wrote to 0xee8c: -660932877
+
+dmc: Wrote to 0xee90: 251482399
+
+dmc: Wrote to 0xee94: -1913540715
+
+dmc: Read from 0xee98 the value: 1561311679
+
+dmc: Wrote to 0xee9c: 1902446103
+
+MM:  Read 32 bytes at 0xeea0
+dmc: Read from 0xeea0 the value: 1946688994
+
+dmc: Wrote to 0xeea4: -86635104
+
+dmc: Read from 0xeea8 the value: 1291291449
+
+dmc: Wrote to 0xeeac: -1944965748
+
+dmc: Read from 0xeeb0 the value: -239844126
+
+dmc: Read from 0xeeb4 the value: 1312829184
+
+dmc: Read from 0xeeb8 the value: 510681218
+
+dmc: Wrote to 0xeebc: 1697345299
+
+MM:  Read 32 bytes at 0xeec0
+dmc: Wrote to 0xeec0: 1892119061
+
+dmc: Wrote to 0xeec4: 324340562
+
+dmc: Read from 0xeec8 the value: -190228438
+
+dmc: Read from 0xeecc the value: 484697718
+
+dmc: Wrote to 0xeed0: 1018621339
+
+dmc: Read from 0xeed4 the value: -441480914
+
+dmc: Read from 0xeed8 the value: -1410664894
+
+dmc: Wrote to 0xeedc: -1202914037
+
+MM:  Read 32 bytes at 0xeee0
+dmc: Read from 0xeee0 the value: 393036095
+
+dmc: Read from 0xeee4 the value: 602741698
+
+dmc: Wrote to 0xeee8: -310709029
+
+dmc: Read from 0xeeec the value: 942034529
+
+dmc: Read from 0xeef0 the value: 736633766
+
+dmc: Read from 0xeef4 the value: -828046520
+
+dmc: Wrote to 0xeef8: 1536646338
+
+dmc: Read from 0xeefc the value: 1381775769
+
+MM:  Read 32 bytes at 0xef00
+dmc: Read from 0xef00 the value: 2107457569
+
+dmc: Wrote to 0xef04: -409481891
+
+dmc: Wrote to 0xef08: 827416093
+
+dmc: Read from 0xef0c the value: -488894338
+
+dmc: Wrote to 0xef10: 241588046
+
+dmc: Wrote to 0xef14: 1260209385
+
+dmc: Wrote to 0xef18: -891143474
+
+dmc: Read from 0xef1c the value: -771844057
+
+MM:  Read 32 bytes at 0xef20
+dmc: Read from 0xef20 the value: 1327841692
+
+dmc: Read from 0xef24 the value: 652227682
+
+dmc: Wrote to 0xef28: -1825039644
+
+dmc: Wrote to 0xef2c: 1577122585
+
+dmc: Read from 0xef30 the value: -1686842922
+
+dmc: Wrote to 0xef34: 508836257
+
+dmc: Wrote to 0xef38: -214887961
+
+dmc: Read from 0xef3c the value: -1598586640
+
+MM:  Read 32 bytes at 0xef40
+dmc: Wrote to 0xef40: -2137952563
+
+dmc: Wrote to 0xef44: 1034183797
+
+dmc: Wrote to 0xef48: 646983685
+
+dmc: Read from 0xef4c the value: 837945890
+
+dmc: Wrote to 0xef50: -360722232
+
+dmc: Wrote to 0xef54: -1601708169
+
+dmc: Read from 0xef58 the value: -912494305
+
+dmc: Read from 0xef5c the value: 1982280150
+
+MM:  Read 32 bytes at 0xef60
+dmc: Wrote to 0xef60: 516088771
+
+dmc: Read from 0xef64 the value: 1197579885
+
+dmc: Read from 0xef68 the value: -478779467
+
+dmc: Wrote to 0xef6c: -1434778929
+
+dmc: Read from 0xef70 the value: -1327191258
+
+dmc: Read from 0xef74 the value: -1286342071
+
+dmc: Wrote to 0xef78: 1145472726
+
+dmc: Read from 0xef7c the value: 1005757365
+
+MM:  Wrote 32 bytes at 0xed80
+MM:  Read 32 bytes at 0xef80
+dmc: Wrote to 0xef80: -2089537565
+
+dmc: Wrote to 0xef84: 1323038895
+
+dmc: Read from 0xef88 the value: 1783027102
+
+dmc: Wrote to 0xef8c: 798105975
+
+dmc: Read from 0xef90 the value: 2090719458
+
+dmc: Read from 0xef94 the value: 480591512
+
+dmc: Read from 0xef98 the value: 748924010
+
+dmc: Wrote to 0xef9c: 1114546716
+
+MM:  Wrote 32 bytes at 0xeda0
+MM:  Read 32 bytes at 0xefa0
+dmc: Wrote to 0xefa0: -1088843092
+
+dmc: Read from 0xefa0 the value: -1088843092
+
+dmc: Read from 0xef9c the value: 1114546716
+
+dmc: Read from 0xef98 the value: 748924010
+
+dmc: Read from 0xef94 the value: 480591512
+
+dmc: Read from 0xef90 the value: 2090719458
+
+dmc: Read from 0xef8c the value: 798105975
+
+dmc: Read from 0xef88 the value: 1783027102
+
+dmc: Read from 0xef84 the value: 1323038895
+
+dmc: Read from 0xef80 the value: -2089537565
+
+dmc: Read from 0xef7c the value: 1005757365
+
+dmc: Read from 0xef78 the value: 1145472726
+
+dmc: Read from 0xef74 the value: -1286342071
+
+dmc: Read from 0xef70 the value: -1327191258
+
+dmc: Read from 0xef6c the value: -1434778929
+
+dmc: Read from 0xef68 the value: -478779467
+
+dmc: Read from 0xef64 the value: 1197579885
+
+dmc: Read from 0xef60 the value: 516088771
+
+dmc: Read from 0xef5c the value: 1982280150
+
+dmc: Read from 0xef58 the value: -912494305
+
+dmc: Read from 0xef54 the value: -1601708169
+
+dmc: Read from 0xef50 the value: -360722232
+
+dmc: Read from 0xef4c the value: 837945890
+
+dmc: Read from 0xef48 the value: 646983685
+
+dmc: Read from 0xef44 the value: 1034183797
+
+dmc: Read from 0xef40 the value: -2137952563
+
+dmc: Read from 0xef3c the value: -1598586640
+
+dmc: Read from 0xef38 the value: -214887961
+
+dmc: Read from 0xef34 the value: 508836257
+
+dmc: Read from 0xef30 the value: -1686842922
+
+dmc: Read from 0xef2c the value: 1577122585
+
+dmc: Read from 0xef28 the value: -1825039644
+
+dmc: Read from 0xef24 the value: 652227682
+
+dmc: Read from 0xef20 the value: 1327841692
+
+dmc: Read from 0xef1c the value: -771844057
+
+dmc: Read from 0xef18 the value: -891143474
+
+dmc: Read from 0xef14 the value: 1260209385
+
+dmc: Read from 0xef10 the value: 241588046
+
+dmc: Read from 0xef0c the value: -488894338
+
+dmc: Read from 0xef08 the value: 827416093
+
+dmc: Read from 0xef04 the value: -409481891
+
+dmc: Read from 0xef00 the value: 2107457569
+
+dmc: Read from 0xeefc the value: 1381775769
+
+dmc: Read from 0xeef8 the value: 1536646338
+
+dmc: Read from 0xeef4 the value: -828046520
+
+dmc: Read from 0xeef0 the value: 736633766
+
+dmc: Read from 0xeeec the value: 942034529
+
+dmc: Read from 0xeee8 the value: -310709029
+
+dmc: Read from 0xeee4 the value: 602741698
+
+dmc: Read from 0xeee0 the value: 393036095
+
+dmc: Read from 0xeedc the value: -1202914037
+
+dmc: Read from 0xeed8 the value: -1410664894
+
+dmc: Read from 0xeed4 the value: -441480914
+
+dmc: Read from 0xeed0 the value: 1018621339
+
+dmc: Read from 0xeecc the value: 484697718
+
+dmc: Read from 0xeec8 the value: -190228438
+
+dmc: Read from 0xeec4 the value: 324340562
+
+dmc: Read from 0xeec0 the value: 1892119061
+
+dmc: Read from 0xeebc the value: 1697345299
+
+dmc: Read from 0xeeb8 the value: 510681218
+
+dmc: Read from 0xeeb4 the value: 1312829184
+
+dmc: Read from 0xeeb0 the value: -239844126
+
+dmc: Read from 0xeeac the value: -1944965748
+
+dmc: Read from 0xeea8 the value: 1291291449
+
+dmc: Read from 0xeea4 the value: -86635104
+
+dmc: Read from 0xeea0 the value: 1946688994
+
+dmc: Read from 0xee9c the value: 1902446103
+
+dmc: Read from 0xee98 the value: 1561311679
+
+dmc: Read from 0xee94 the value: -1913540715
+
+dmc: Read from 0xee90 the value: 251482399
+
+dmc: Read from 0xee8c the value: -660932877
+
+dmc: Read from 0xee88 the value: 1416832414
+
+dmc: Read from 0xee84 the value: -1364105586
+
+dmc: Read from 0xee80 the value: 1429643244
+
+dmc: Read from 0xee7c the value: -335961384
+
+dmc: Read from 0xee78 the value: -155077143
+
+dmc: Read from 0xee74 the value: 1642282270
+
+dmc: Read from 0xee70 the value: -753923495
+
+dmc: Read from 0xee6c the value: -210424554
+
+dmc: Read from 0xee68 the value: -144884729
+
+dmc: Read from 0xee64 the value: -1297078309
+
+dmc: Read from 0xee60 the value: -396495218
+
+dmc: Read from 0xee5c the value: -340450425
+
+dmc: Read from 0xee58 the value: 1662058316
+
+dmc: Read from 0xee54 the value: -1738033170
+
+dmc: Read from 0xee50 the value: 128162647
+
+dmc: Read from 0xee4c the value: 2067263224
+
+dmc: Read from 0xee48 the value: -1605104225
+
+dmc: Read from 0xee44 the value: -766144647
+
+dmc: Read from 0xee40 the value: 390944669
+
+dmc: Read from 0xee3c the value: -1310457833
+
+dmc: Read from 0xee38 the value: 1555631631
+
+dmc: Read from 0xee34 the value: -564885826
+
+dmc: Read from 0xee30 the value: 702132747
+
+dmc: Read from 0xee2c the value: 1143980901
+
+dmc: Read from 0xee28 the value: -1591063807
+
+dmc: Read from 0xee24 the value: 995290068
+
+dmc: Read from 0xee20 the value: -332572808
+
+dmc: Read from 0xee1c the value: -544674886
+
+dmc: Read from 0xee18 the value: 1264490922
+
+dmc: Read from 0xee14 the value: 857933564
+
+dmc: Read from 0xee10 the value: 179007629
+
+dmc: Read from 0xee0c the value: 337561372
+
+dmc: Read from 0xee08 the value: 1457167006
+
+dmc: Read from 0xee04 the value: 10069325
+
+dmc: Read from 0xee00 the value: -1119952667
+
+dmc: Read from 0xedfc the value: 1647004822
+
+dmc: Read from 0xedf8 the value: 138252352
+
+dmc: Read from 0xedf4 the value: 1334855240
+
+dmc: Read from 0xedf0 the value: 1990075866
+
+dmc: Read from 0xedec the value: 466093282
+
+dmc: Read from 0xede8 the value: 1130857300
+
+dmc: Read from 0xede4 the value: 1504338702
+
+dmc: Read from 0xede0 the value: 1648755322
+
+dmc: Read from 0xeddc the value: -454703030
+
+dmc: Read from 0xedd8 the value: 511434839
+
+dmc: Read from 0xedd4 the value: -1997833139
+
+dmc: Read from 0xedd0 the value: 868049095
+
+dmc: Read from 0xedcc the value: -747065101
+
+dmc: Read from 0xedc8 the value: 1935649014
+
+dmc: Read from 0xedc4 the value: 1549571101
+
+dmc: Read from 0xedc0 the value: -1240796816
+
+MM:  Wrote 32 bytes at 0xefa0
+MM:  Read 32 bytes at 0xeda0
+dmc: Read from 0xedbc the value: -397705428
+
+dmc: Read from 0xedb8 the value: 94975538
+
+dmc: Read from 0xedb4 the value: 932131972
+
+dmc: Read from 0xedb0 the value: -1508752469
+
+dmc: Read from 0xedac the value: 953724224
+
+dmc: Read from 0xeda8 the value: 1925787846
+
+dmc: Read from 0xeda4 the value: 954281702
+
+dmc: Read from 0xeda0 the value: -385424985
+
+MM:  Wrote 32 bytes at 0xef80
+MM:  Read 32 bytes at 0xed80
+dmc: Read from 0xed9c the value: -1195024245
+
+dmc: Read from 0xed98 the value: 475235665
+
+
+
+*******************************************
+dmc cache with 16 set(s)
+*******************************************
+Write Hit Rate:	    85.71% (48/56)
+Read Hit Rate:	    94.17% (194/206)
+Total Hit Rate:     92.37% (242/262)
+Writes to Main Memory:   4
+Reads from Main Memory:  20
+Avg. Memory Access Time: 1.76 cycles
+*******************************************

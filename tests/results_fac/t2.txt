@@ -1,0 +1,17 @@
+MM:  Read 32 bytes at 0xc260
+fac: Read from 0xc264 the value: -1882520528
+
+fac: Read from 0xc264 the value: -1882520528
+
+
+
+*******************************************
+fac cache with 16 way(s)
+*******************************************
+Write Hit Rate:	    0.00% (0/0)
+Read Hit Rate:	    50.00% (1/2)
+Total Hit Rate:     50.00% (1/2)
+Writes to Main Memory:   0
+Reads from Main Memory:  1
+Avg. Memory Access Time: 6.00 cycles
+*******************************************

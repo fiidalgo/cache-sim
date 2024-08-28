@@ -1,0 +1,67 @@
+MM:  Read 32 bytes at 0x01e0
+fac: Wrote to 0x01e4: -321312461
+
+MM:  Read 32 bytes at 0x56e0
+fac: Read from 0x56fc the value: 785288071
+
+MM:  Read 32 bytes at 0xce00
+fac: Wrote to 0xce00: 1582529948
+
+MM:  Read 32 bytes at 0xb480
+fac: Wrote to 0xb490: -713662261
+
+MM:  Read 32 bytes at 0x0e00
+fac: Wrote to 0x0e1c: -13940496
+
+MM:  Read 32 bytes at 0x36c0
+fac: Read from 0x36c4 the value: 201478224
+
+MM:  Read 32 bytes at 0xfae0
+fac: Read from 0xfaf8 the value: -2144726017
+
+MM:  Read 32 bytes at 0xf500
+fac: Read from 0xf518 the value: -1954843744
+
+MM:  Read 32 bytes at 0xa600
+fac: Read from 0xa610 the value: -761326634
+
+MM:  Read 32 bytes at 0x16a0
+fac: Read from 0x16b0 the value: -12753641
+
+MM:  Read 32 bytes at 0xd680
+fac: Wrote to 0xd68c: 1561142346
+
+MM:  Read 32 bytes at 0xf680
+fac: Wrote to 0xf69c: -1703212033
+
+MM:  Read 32 bytes at 0xd000
+fac: Wrote to 0xd004: 1746628421
+
+MM:  Read 32 bytes at 0x5b00
+fac: Read from 0x5b10 the value: 372742078
+
+MM:  Read 32 bytes at 0x4e00
+fac: Read from 0x4e04 the value: 988471399
+
+MM:  Read 32 bytes at 0x1160
+fac: Read from 0x117c the value: -350483689
+
+MM:  Wrote 32 bytes at 0x01e0
+MM:  Read 32 bytes at 0x9720
+fac: Wrote to 0x9734: -244061713
+
+MM:  Read 32 bytes at 0x01e0
+fac: Read from 0x01e4 the value: -321312461
+
+
+
+*******************************************
+fac cache with 16 way(s)
+*******************************************
+Write Hit Rate:	    0.00% (0/8)
+Read Hit Rate:	    0.00% (0/10)
+Total Hit Rate:     0.00% (0/18)
+Writes to Main Memory:   1
+Reads from Main Memory:  18
+Avg. Memory Access Time: 11.00 cycles
+*******************************************

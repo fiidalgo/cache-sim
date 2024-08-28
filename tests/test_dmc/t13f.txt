@@ -1,0 +1,67 @@
+MM:  Read 32 bytes at 0x9620
+dmc: Wrote to 0x962c: -1256842247
+
+dmc: Read from 0x962c the value: -1256842247
+
+MM:  Read 32 bytes at 0x9320
+dmc: Read from 0x9328 the value: 215901481
+
+MM:  Read 32 bytes at 0x5ee0
+dmc: Wrote to 0x5ef4: 907637194
+
+MM:  Read 32 bytes at 0x9ea0
+dmc: Read from 0x9ea4 the value: 487576354
+
+MM:  Read 32 bytes at 0x79a0
+dmc: Read from 0x79b4 the value: -246341148
+
+MM:  Wrote 32 bytes at 0x5ee0
+MM:  Read 32 bytes at 0x5ce0
+dmc: Wrote to 0x5cfc: -2021303564
+
+MM:  Read 32 bytes at 0xa780
+dmc: Wrote to 0xa790: -1281745260
+
+MM:  Read 32 bytes at 0xb440
+dmc: Read from 0xb448 the value: -1153109041
+
+MM:  Read 32 bytes at 0xa2a0
+dmc: Wrote to 0xa2bc: 1336540925
+
+MM:  Read 32 bytes at 0xc260
+dmc: Read from 0xc274 the value: 858630898
+
+MM:  Read 32 bytes at 0x7400
+dmc: Read from 0x7414 the value: -1215900429
+
+MM:  Read 32 bytes at 0xa200
+dmc: Wrote to 0xa210: 1084644833
+
+MM:  Read 32 bytes at 0xbcc0
+dmc: Wrote to 0xbcc8: 64465546
+
+MM:  Read 32 bytes at 0x2760
+dmc: Read from 0x2770 the value: -1792124267
+
+MM:  Wrote 32 bytes at 0xa780
+MM:  Read 32 bytes at 0xfb80
+dmc: Read from 0xfb88 the value: -1479801812
+
+MM:  Read 32 bytes at 0x5e40
+dmc: Read from 0x5e50 the value: -1375429122
+
+MM:  Read 32 bytes at 0x4e80
+dmc: Read from 0x4e88 the value: 2109598079
+
+
+
+*******************************************
+dmc cache with 16 set(s)
+*******************************************
+Write Hit Rate:	    0.00% (0/7)
+Read Hit Rate:	    9.09% (1/11)
+Total Hit Rate:     5.56% (1/18)
+Writes to Main Memory:   2
+Reads from Main Memory:  17
+Avg. Memory Access Time: 10.44 cycles
+*******************************************

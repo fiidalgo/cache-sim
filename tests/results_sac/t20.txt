@@ -1,0 +1,175 @@
+MM:  Read 32 bytes at 0xd040
+sac: Read from 0xd04c the value: -798858970
+
+MM:  Read 32 bytes at 0x8000
+sac: Wrote to 0x8018: 1236356212
+
+MM:  Read 32 bytes at 0x0040
+sac: Read from 0x0058 the value: -47545541
+
+MM:  Read 32 bytes at 0xa780
+sac: Wrote to 0xa798: 2120521441
+
+MM:  Read 32 bytes at 0xd3c0
+sac: Wrote to 0xd3dc: 814351879
+
+MM:  Read 32 bytes at 0x8de0
+sac: Wrote to 0x8de0: -1221354881
+
+MM:  Read 32 bytes at 0x1680
+sac: Wrote to 0x1680: -731575514
+
+MM:  Read 32 bytes at 0x0360
+sac: Read from 0x0360 the value: 693144151
+
+MM:  Read 32 bytes at 0x11c0
+sac: Read from 0x11d0 the value: -2044147728
+
+MM:  Read 32 bytes at 0x30a0
+sac: Wrote to 0x30a4: 421550513
+
+MM:  Read 32 bytes at 0xc420
+sac: Wrote to 0xc430: -1273985837
+
+MM:  Read 32 bytes at 0xd320
+sac: Read from 0xd330 the value: 1025913117
+
+MM:  Read 32 bytes at 0x10a0
+sac: Read from 0x10bc the value: -1601790654
+
+MM:  Read 32 bytes at 0xbb60
+sac: Wrote to 0xbb64: 1810768985
+
+MM:  Wrote 32 bytes at 0xa780
+MM:  Read 32 bytes at 0xe580
+sac: Read from 0xe590 the value: 1804775766
+
+MM:  Read 32 bytes at 0xbb40
+sac: Wrote to 0xbb4c: -1521985285
+
+MM:  Read 32 bytes at 0x4600
+sac: Wrote to 0x4604: -1461915923
+
+MM:  Read 32 bytes at 0xd040
+sac: Read from 0xd058 the value: -774795459
+
+sac: Read from 0x8008 the value: 2114819349
+
+MM:  Wrote 32 bytes at 0xbb40
+MM:  Read 32 bytes at 0x0040
+sac: Wrote to 0x005c: -1154976335
+
+MM:  Wrote 32 bytes at 0x1680
+MM:  Read 32 bytes at 0xa780
+sac: Wrote to 0xa780: -237269391
+
+sac: Read from 0xd3d0 the value: 681360890
+
+sac: Read from 0x8de0 the value: -1221354881
+
+MM:  Read 32 bytes at 0x1680
+sac: Read from 0x1698 the value: -2063560347
+
+sac: Read from 0x0370 the value: 115488985
+
+sac: Read from 0x11c8 the value: 891509744
+
+sac: Wrote to 0x30bc: -2125676437
+
+sac: Wrote to 0xc424: -709068953
+
+sac: Wrote to 0xd328: -1312440407
+
+sac: Read from 0x10a4 the value: 1417158169
+
+sac: Wrote to 0xbb60: 522947878
+
+MM:  Wrote 32 bytes at 0xa780
+MM:  Read 32 bytes at 0xe580
+sac: Wrote to 0xe590: -492917389
+
+MM:  Read 32 bytes at 0xbb40
+sac: Wrote to 0xbb44: -367575172
+
+sac: Read from 0x461c the value: -1127573193
+
+MM:  Wrote 32 bytes at 0x0040
+MM:  Read 32 bytes at 0xd040
+sac: Wrote to 0xd058: -283794744
+
+sac: Read from 0x801c the value: 1166182583
+
+MM:  Wrote 32 bytes at 0xbb40
+MM:  Read 32 bytes at 0x0040
+sac: Wrote to 0x0044: 1009697813
+
+MM:  Read 32 bytes at 0xa780
+sac: Wrote to 0xa794: -726427769
+
+sac: Wrote to 0xd3d0: 1067290171
+
+sac: Read from 0x8dec the value: -742309267
+
+MM:  Wrote 32 bytes at 0xe580
+MM:  Read 32 bytes at 0x1680
+sac: Read from 0x1694 the value: 1248198266
+
+sac: Read from 0x037c the value: 531352652
+
+sac: Read from 0x11dc the value: -1398481449
+
+sac: Wrote to 0x30a0: -521711647
+
+sac: Read from 0xc42c the value: -1549875078
+
+sac: Read from 0xd324 the value: 1027209965
+
+sac: Wrote to 0x10a8: 1212527530
+
+sac: Read from 0xbb60 the value: 522947878
+
+MM:  Wrote 32 bytes at 0xa780
+MM:  Read 32 bytes at 0xe580
+sac: Read from 0xe594 the value: 1289595413
+
+MM:  Wrote 32 bytes at 0xd040
+MM:  Read 32 bytes at 0xbb40
+sac: Read from 0xbb58 the value: -1190854856
+
+sac: Wrote to 0x4608: -1584923480
+
+MM:  Wrote 32 bytes at 0x0040
+MM:  Read 32 bytes at 0xd040
+sac: Read from 0xd040 the value: 1055498951
+
+sac: Read from 0x8018 the value: 1236356212
+
+MM:  Read 32 bytes at 0x0040
+sac: Read from 0x0048 the value: -1872143673
+
+MM:  Read 32 bytes at 0xa780
+sac: Read from 0xa780 the value: -237269391
+
+sac: Wrote to 0xd3d4: -40127973
+
+sac: Wrote to 0x8de0: -35789465
+
+MM:  Read 32 bytes at 0x1680
+sac: Read from 0x1694 the value: 1248198266
+
+sac: Read from 0x0364 the value: 1329787868
+
+sac: Read from 0x11d8 the value: 1339061274
+
+
+
+*******************************************
+sac cache with 8 set(s) and 2 way(s)
+*******************************************
+Write Hit Rate:	    37.04% (10/27)
+Read Hit Rate:	    51.52% (17/33)
+Total Hit Rate:     45.00% (27/60)
+Writes to Main Memory:   10
+Reads from Main Memory:  33
+Avg. Memory Access Time: 6.50 cycles
+*******************************************
